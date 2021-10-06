@@ -126,7 +126,6 @@ elif first_cords == "4x4":
             second_values.append(num1)
             counter2 += 1
             counter3 += 1
-            print("es yleoba", counter2)
             if counter2 == 16:
 
               a1 = []
