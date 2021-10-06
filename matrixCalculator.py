@@ -111,7 +111,7 @@ if first_cords == "3x3":
     print("FIRST MATRIX\n", a, "\n", b, "\n", c, "\n")
     print("SECOND MATRIX\n", a1, "\n", b1, "\n", c1, "\n")
 elif first_cords == "4x4":
-    print("program automaticcly chooses 3x3 matrix")
+    print("program automaticcly chooses 4x4 matrix")
 
     if first_cords == "4x4":
         for i in range(16):
